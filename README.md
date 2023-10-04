@@ -1,8 +1,8 @@
 # DNDAI
-I made a dnd AI Because i hate hasbro
+I made a dnd AI
 
 
-
+[My Website]: https://
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
